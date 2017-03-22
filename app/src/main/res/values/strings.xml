@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoAppClient</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="activities">
+        <item>About</item>
+        <item>Odliczanie</item>
+        <item>Liczba pierwsza</item>vv
+        <item>Poziomica</item>
+        <item>Rysowanie</item>
+        <item>Kamera</item>
+    </string-array>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
